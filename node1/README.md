@@ -1,4 +1,4 @@
-# nod1
+# node1
 
 ## Project setup
 ```
