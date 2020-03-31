@@ -6,4 +6,6 @@
 [sum1.js](https://github.com/hyerin6/Frontend/blob/master/hw/src/2020-03-24/sum1.js)  
 [sum2.js](https://github.com/hyerin6/Frontend/blob/master/hw/src/2020-03-24/sum2.js)  
 [pages.js](https://github.com/hyerin6/Frontend/blob/master/hw/src/2020-03-24/pages.js)  
-[random.js](https://github.com/hyerin6/Frontend/blob/master/hw/src/2020-03-24/random.js)  
+[random.js](https://github.com/hyerin6/Frontend/blob/master/hw/src/2020-03-24/random.js)    
+[even.js](https://github.com/hyerin6/Frontend/blob/master/hw/src/2020-04-01/even.js)    
+[sort.js](https://github.com/hyerin6/Frontend/blob/master/hw/src/2020-04-01/sort.js)    
