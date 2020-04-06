@@ -11,4 +11,7 @@
 [sort.js](https://github.com/hyerin6/Frontend/blob/master/hw/src/2020-04-01/sort.js)    
 [vowel.js](https://github.com/hyerin6/Frontend/blob/master/hw/src/2020-04-01/vowel.js)    
 [space.js](https://github.com/hyerin6/Frontend/blob/master/hw/src/2020-04-01/space.js)       
-[split.js](https://github.com/hyerin6/Frontend/blob/master/hw/src/2020-04-01/split.js)         
+[split.js](https://github.com/hyerin6/Frontend/blob/master/hw/src/2020-04-01/split.js)     
+[timer1.js](https://github.com/hyerin6/Frontend/blob/master/hw/src/2020-04-06/timer1.js)    
+[personArray1.js](https://github.com/hyerin6/Frontend/blob/master/hw/src/2020-04-06/personArray1.js)       
+[personArray2.js](https://github.com/hyerin6/Frontend/blob/master/hw/src/2020-04-06/personArray2.js)        
