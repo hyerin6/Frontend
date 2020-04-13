@@ -14,4 +14,6 @@
 [split.js](https://github.com/hyerin6/Frontend/blob/master/hw/src/2020-04-01/split.js)     
 [timer1.js](https://github.com/hyerin6/Frontend/blob/master/hw/src/2020-04-06/timer1.js)    
 [personArray1.js](https://github.com/hyerin6/Frontend/blob/master/hw/src/2020-04-06/personArray1.js)       
-[personArray2.js](https://github.com/hyerin6/Frontend/blob/master/hw/src/2020-04-06/personArray2.js)        
+[personArray2.js](https://github.com/hyerin6/Frontend/blob/master/hw/src/2020-04-06/personArray2.js)         
+[personhw1.js](https://github.com/hyerin6/Frontend/blob/master/hw/src/2020-04-13/personhw2.js)  
+[personhw2.js](https://github.com/hyerin6/Frontend/blob/master/hw/src/2020-04-13/personhw2.js)  
